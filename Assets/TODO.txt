@@ -1,0 +1,13 @@
+#TODO
+- Script to change between views (either fade in and out or zoom in and out from the room view)
+- Fix character controllers or create a new controller script
+- Design more puzzles/challenges
+- Add "room" mechanics
+- Start implementing the dialogue between the player and his room
+- Arrange the room
+- Point and click movement around the room for the big character
+- Sounds (footsteps, ambient noise, perhaps a jukebox/boom box somewhere)
+- Work the lighting
+- Figure out name and input settings
+- Finish!
+
